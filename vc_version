@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 2,
-  "VersionName": "1.0.2",
+  "VersionCode": 3,
+  "VersionName": "1.0.3",
   "ModifyContent": "1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
-  "DownloadUrl": "https://virtualclone.imfast.io/VirtualCall_1.0.2_2020_07_07.apk",
+  "DownloadUrl": "https://virtualclone.imfast.io/VirtualCall_1.0.3_2020_07_10.apk",
   "ApkSize": 20172,
-  "ApkMd5": "97346dd97f56f880c21e97f247739ad0c9cd1e30"
+  "ApkMd5": "395745a09ef0a8e4f0801a1ecb37c5970f1624b2"
 }
