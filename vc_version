@@ -5,7 +5,7 @@
   "VersionCode": 2,
   "VersionName": "1.0.2",
   "ModifyContent": "1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
-  "DownloadUrl": "https://gitee.com/lison/host_api/raw/master/VirtualCall_1.0.2_2020_07_07.apk",
+  "DownloadUrl": "https://virtualclone.imfast.io/VirtualCall_1.0.2_2020_07_07.apk",
   "ApkSize": 20172,
   "ApkMd5": "97346dd97f56f880c21e97f247739ad0c9cd1e30"
 }
