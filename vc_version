@@ -5,7 +5,7 @@
   "VersionCode": 7,
   "VersionName": "1.0.7",
   "ModifyContent": "1、修复开启混淆崩溃bug。\r\n2、集成极光推送。\r\n3、新增APP下载页。\r\n4、LIHKG-“连登”。",
-  "DownloadUrl": "https://virtualclone.imfast.io/VirtualCall_1.0.6_2020_09_07.apk",
+  "DownloadUrl": "https://virtualclone.imfast.io/VirtualCall_1.0.7_2020_09_08.apk",
   "ApkSize": 13245645,
   "ApkMd5": "3e49406ec3697c41a90c3200383d001c"
 }
