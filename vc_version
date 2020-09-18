@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 8,
-  "VersionName": "1.0.7",
-  "ModifyContent": "1、修复UI显示问题。\r\n2、提升用户体验。\r\n3、优化广告显示",
-  "DownloadUrl": "https://virtualclone.imfast.io/VirtualCall_1.0.7_2020_09_17_107_jiagu_sign.apk",
+  "VersionCode": 9,
+  "VersionName": "1.0.8",
+  "ModifyContent": "1、加快页面加载速度。\r\n",
+  "DownloadUrl": "https://virtualclone.imfast.io/VirtualCall_1.0.8_2020_09_18_108_jiagu_sign.apk",
   "ApkSize": 13961556,
-  "ApkMd5": "1cce3ad9625ebc787c064927f837c852"
+  "ApkMd5": "38beb928581418581e106db41293b779"
 }
