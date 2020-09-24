@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 9,
-  "VersionName": "1.0.8",
-  "ModifyContent": "1、加快页面加载速度。\r\n",
-  "DownloadUrl": "https://virtualclone.imfast.io/VirtualCall_1.0.8_2020_09_18_108_jiagu_sign.apk",
-  "ApkSize": 13961556,
-  "ApkMd5": "38beb928581418581e106db41293b779"
+  "VersionCode": 10,
+  "VersionName": "1.0.9",
+  "ModifyContent": "1、加快了页面加载速度。\r\n",
+  "DownloadUrl": "https://virtualclone.imfast.io/VirtualCall_1.0.9_2020_09_24.apk",
+  "ApkSize": 12870808,
+  "ApkMd5": "5c6c519746b96bc7d2247a6555b53aa3"
 }
