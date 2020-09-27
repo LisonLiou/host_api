@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 2,
-  "VersionName": "1.0.1",
+  "VersionCode": 1,
+  "VersionName": "1.0.0",
   "ModifyContent": "1、加快页面加载速度。\r\n",
-  "DownloadUrl": "https://virtualclone.imfast.io/gank/GankIO_1.0.1_2020_09_23.apk",
-  "ApkSize": 9486147,
-  "ApkMd5": "5802b0974648a86a5dab4f88afa0d7fb"
+  "DownloadUrl": "https://virtualclone.imfast.io/gank/GankIO_1.0.0_2020_09_27_100_jiagu_sign.apk",
+  "ApkSize": 13256162,
+  "ApkMd5": "136d4ec080a695efaa38002aae4a4fbc"
 }
