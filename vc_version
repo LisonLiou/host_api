@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 10,
-  "VersionName": "1.0.9",
-  "ModifyContent": "1、加快页面加载速度。\r\n2、修复bug\r\n",
-  "DownloadUrl": "https://virtualclone.imfast.io/VirtualCall_1.0.9_2020_09_24_109_jiagu_sign.apk",
-  "ApkSize": 13961556,
+  "VersionCode": 120,
+  "VersionName": "1.2.0",
+  "ModifyContent": "1、优化APP加载速度。\r\n2、修复bug\r\n",
+  "DownloadUrl": "https://github.com/LisonLiou/host_api/raw/master/VirtualCall.apk",
+  "ApkSize": 14261556,
   "ApkMd5": "f9229bc3737911c901df8eb72ad37226"
 }
