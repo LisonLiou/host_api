@@ -1,0 +1,11 @@
+{
+  "Code": 0,
+  "Msg": "",
+  "UpdateStatus": 1,
+  "VersionCode": 120,
+  "VersionName": "1.2.0",
+  "ModifyContent": "1、优化APP加载速度。\r\n2、修复bug\r\n",
+  "DownloadUrl": "https://github.com/LisonLiou/host_api/raw/master/myad.aab",
+  "ApkSize": 14261556,
+  "ApkMd5": "f9229bc3737911c901df8eb72ad37226"
+}
